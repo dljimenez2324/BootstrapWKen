@@ -1,0 +1,38 @@
+.textToPurple {
+    color: brown;
+}
+
+.bgRed{
+    background-color: red;
+}
+
+.bgBlue{
+    background-color: cornflowerblue;
+}
+
+.bgGreen{
+    background-color: green;
+}
+
+.bgShadow{
+    background-color: grey;
+}
+
+
+.outLine{
+    border: 2px solid;
+}
+
+.bgBrown{
+    background-color: burlywood;
+}
+
+.frame {
+    border: 4px solid;
+    border-radius:20px;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+}
